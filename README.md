@@ -1,2 +1,2 @@
-# git-
+# study-git
 学习git 的库
